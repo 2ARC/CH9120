@@ -1,0 +1,30 @@
+{
+  "name": "CH9120",
+  "version": "1.0",
+  "keywords": "ethernet,arduino",
+  "description": "Transparent serial over ethernet",
+  "authors":
+  [
+    {
+        "name": "NanjingQinhengMicroelectronics",
+        "url": "https://www.wch-ic.com/products/CH9120.html"
+    },
+    {
+        "name": "NanjingQinhengMicroelectronics",
+        "url": "https://www.wch-ic.com/products/CH9120.html",
+        "maintainer": false
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "frameworks": "arduino",
+  "platforms": 
+  [
+    "rp2040",
+    "esp32",
+    "avr"
+  ]
+}
